@@ -1,9 +1,9 @@
-.container{
-    width: /0px;
-    height: /00px;
+.container {
+    width: 0px;
+    height: 0px;
     margin: solid;
-    margin top: 100px;
-    background-color: withe;
+    margin-top: 100px;
+    background-color: white;
     border: 1px solid yellow;
     border-radius: 5px;
 }
@@ -11,5 +11,5 @@
     float:left;
 }
 h1 {
-    text-align: center 
+    text-align: center;
 }

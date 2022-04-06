@@ -4,14 +4,14 @@
     background-color: rgb(255, 255, 255)
 }
 
-img {
-    width: 400px;
-}
+
+
 
 .menu {
     float: left;
     margin-left: 0px;
     background-color: rgb(56, 55, 55);
+    width: 300px;
 }
 
 h1 {
@@ -39,8 +39,18 @@ ul li:last-child{
     border-bottom: none
 }
 
-.tartalom> img {
+/*.tartalom> img {
     width: 100px;
     margin: auto;
-    
+    float: center;
+    }*/
+
+.tartalom {
+    margin: 50px;
+   text-align: center;
+}
+
+.golyo{
+    width: 100px;
+    bottom;
 }

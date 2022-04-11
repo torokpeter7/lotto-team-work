@@ -1,2 +1,4 @@
 # lotto-team-work
-#megjöttem
+Terdik Zalán
+Török Péter
+https://torokpeter7.github.io/lotto-team-work/

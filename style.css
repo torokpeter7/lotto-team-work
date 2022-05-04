@@ -47,3 +47,8 @@ ul li:last-child{
 .golyo{
     width: 100px;
 }
+.szamok{
+    margin-left:5em ;
+    text-align:center;
+    font-size: 20px;
+}
